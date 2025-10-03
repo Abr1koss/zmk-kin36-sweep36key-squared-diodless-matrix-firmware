@@ -119,8 +119,8 @@
             display-name = "SYMBOL";
             bindings = <
   &none           &kp HOME        &kp UP_ARROW    &kp END          &kp INSERT    &kp PAGE_UP      &kp N7     &kp N8  &kp N9  &kp C_VOLUME_UP
-  &kp LEFT_SHIFT  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &none         &kp PAGE_DOWN    &kp N4     &kp N5  &kp N6  &kp C_VOL_DN
-  &none           &none           &none           &kp DELETE       &none         &kp PRINTSCREEN  &kp N1     &kp N2  &kp N3  &kp K_PLAY_PAUSE
+  &kp LEFT_SHIFT  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp C_NEXT    &kp PAGE_DOWN    &kp N4     &kp N5  &kp N6  &kp C_VOL_DN
+  &none           &none           &none           &kp DELETE       &kp C_PREV    &kp PRINTSCREEN  &kp N1     &kp N2  &kp N3  &kp C_PLAY_PAUSE
                                   &none           &none            &none         &none            &kp RCTRL  &kp N0
             >;
         };

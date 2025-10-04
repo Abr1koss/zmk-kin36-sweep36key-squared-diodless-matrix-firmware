@@ -110,7 +110,7 @@
             bindings = <
   &kp N1   &kp LESS_THAN  &kp EQUAL  &kp GREATER_THAN  &kp SEMICOLON     &kp F1   &kp F2   &kp F3            &kp F4          &kp F5
   &kp DEL  &kp LPAR       &kp MINUS  &kp RPAR          &kp PLUS          &kp F6   &kp F7   &kp F8            &kp F9          &kp F10
-  &none    &kp ASTERISK   &kp COLON  &kp SLASH         &none             &kp F11  &kp F12  &kp LEFT_BRACKET  &kp APOSTROPHE  &kp RIGHT_BRACKET
+  &none    &kp ASTERISK   &kp COLON  &kp SLASH         &kp BACKSLASH     &kp F11  &kp F12  &kp LEFT_BRACKET  &kp APOSTROPHE  &kp RIGHT_BRACKET
                           &none      &none             &kp LEFT_SHIFT    &none    &none    &none
             >;
         };
@@ -120,7 +120,7 @@
             bindings = <
   &none           &kp HOME        &kp UP_ARROW    &kp END          &kp INSERT    &kp PAGE_UP      &kp N7     &kp N8  &kp N9  &kp C_VOLUME_UP
   &kp LEFT_SHIFT  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp C_NEXT    &kp PAGE_DOWN    &kp N4     &kp N5  &kp N6  &kp C_VOL_DN
-  &none           &kp LC(LEFT)    &none           &kp LC(RIGHT)    &kp C_PREV    &kp PRINTSCREEN  &kp N1     &kp N2  &kp N3  &kp C_PLAY_PAUSE
+  &none           &kp LC(LEFT)    &kp CLCK        &kp LC(RIGHT)    &kp C_PREV    &kp PRINTSCREEN  &kp N1     &kp N2  &kp N3  &kp C_PLAY_PAUSE
                                   &none           &none            &none         &none            &kp RCTRL  &kp N0
             >;
         };

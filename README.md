@@ -74,6 +74,10 @@ ZMK Firmware for Kin36, Sweep36(ZMK Cradio shield but with 36 keys), Sweep Squar
 - press =p= or =q= to quit mouse layer
 - =MB4= is for going backward and =MB5= is for going forward
 
+-
+- <img width="999" height="441" alt="изображение" src="https://github.com/user-attachments/assets/7748bf61-0bbc-4aaa-9c8a-9eb0afb21a81" />
+
+
 #+caption: mouse layer
 [[file:images/mouse-layer.png]]
 
